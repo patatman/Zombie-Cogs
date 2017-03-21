@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "Patatman - https://github.com/patatman",
+    "DESCRIPTION" : "beautfulSoup\nInstall with:\npip3 install bs4\n\nYou must change the python file to your own 7days to die server from: https://7daystodie-servers.com",
+    "DISABLED" : false,
+    "NAME" : "sdtd server info"
+}
